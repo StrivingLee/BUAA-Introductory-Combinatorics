@@ -1,2 +1,23 @@
-# Introductory-Combinatorics
-Course resources of BUAA introductory combinatorics 
+# 离散三-组合数学
+## 下面是说明
+
+1. 分支说明：
+
+   - Homework 表示 作业及参考答案
+   - Papers 表示 历年往年题（尽最大可能搜集）
+   - Slides 表示 课件
+   - Textbook 表示 电子版课本
+   - 此外还有一份复习笔记
+
+2. 发现 bug 欢迎 dd 我
+
+3. 写的东西不保证正确性，写着玩的
+
+4. 没看到文件？
+
+   仔细看看！都在 branch 里！
+
+5. 如果我还能保持对组合数学的热忱，后续可能也考虑更新在这里
+
+6. 选修课，学点喜欢的，学得开心就好
+
